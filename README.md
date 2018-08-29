@@ -1,2 +1,10 @@
-# 343-HW1
-# 343-HW1
+In git the commands that I use often are 
+add .
+commit -m ""
+push origin master
+clone
+git init
+git clone
+mkdir 
+touch 
+
