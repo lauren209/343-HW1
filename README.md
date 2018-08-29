@@ -1,5 +1,5 @@
 In git the commands that I use often are 
-add .
+<br> add .
 commit -m ""
 push origin master
 clone
